@@ -1,5 +1,6 @@
-# The Matrix
+# the1.py
 # Josh Anderson
+# 05/21/2020
 
 import time
 import board
